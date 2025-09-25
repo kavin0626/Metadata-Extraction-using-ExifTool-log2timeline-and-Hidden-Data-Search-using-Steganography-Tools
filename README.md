@@ -1,4 +1,4 @@
-# EX:5-Metadata-Extraction-using-ExifTool-log2timeline-and-Hidden-Data-Search-using-Steganography-Tools
+# EX:6-Metadata-Extraction-using-ExifTool-log2timeline-and-Hidden-Data-Search-using-Steganography-Tools
 ```
  NAME : KAVINRAJ S
  REG NO: 212223100019
